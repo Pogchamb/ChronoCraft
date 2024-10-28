@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_timer"
+        android:icon="@drawable/timer_icon"
+        android:title="@string/timer" />
+    <item
+        android:id="@+id/nav_calendar"
+        android:icon="@drawable/calendar_icon"
+        android:title="@string/calendar" />
+    <item
+        android:id="@+id/nav_statistic"
+        android:icon="@drawable/statistic_icon"
+        android:title="@string/statistic" />
+    <item
+        android:id="@+id/nav_tracker"
+        android:icon="@drawable/tracker_icon"
+        android:title="@string/tracker" />
+    <item
+        android:id="@+id/nav_settings"
+        android:icon="@drawable/settings_icon"
+        android:title="@string/settings" />
+</menu>
